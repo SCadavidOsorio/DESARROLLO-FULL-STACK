@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ingeniería Eléctrica</title>
+</head>
+<body>
+  <p>
+   ingeniería eléctrica es el campo de la ingeniería que se ocupa del estudio y la aplicación de la electricidad, electromagnetismo, electromecánica y la electrónica a sistemas eléctricos de potencia. Aplica conocimientos de ciencias como la física y las matemáticas, se ocupa de la generación, transmisión, distribución, utilización de energía eléctrica y los aparatos eléctricos conectados a un sistema eléctrico de potencia, un sistema eléctrico de potencia es un conjunto de componentes eléctricos instalados para suministrar, transferir y usar energía eléctrica. Un ejemplo de un sistema eléctrico de potencia es la red eléctrica que proporciona energía a un área extendida. Aunque gran parte del campo se ocupa de los problemas de la alimentación de CA trifásica, el estándar para la transmisión y distribución de energía a gran escala, una fracción significativa del campo se ocupa de la conversión entre alimentación de CA y CC, diseño y desarrollo de aparatos de un sistema eléctrico de potencia como las máquinas eléctricas, disyuntores, condensadores, relés de protección, etc., y al diseño de sistemas eléctricos de potencia especializados como los utilizados en aviones, sistemas ferroviarios eléctricos, transatlánticos, submarinos, automóviles,etc.
+  </p>
+</body>
+</html>
